@@ -14,7 +14,17 @@ INSERT INTO products (product_name,department,price, quantity)
 VALUES ("Electronic Hookah", "Hookah Tool", 100,80);
 
 INSERT INTO products (product_name,department,price, quantity)
-VALUES ("Charcoals Hookah", "Hookah Tool", 120,30);
+VALUES ("Charcoals Hookah", "Hookah Tool", 120, 30);
 
+INSERT INTO products (product_name,department,price, quantity)
+VALUES ("Original Charcoals", "Coal", 4.68, 200);
 
+INSERT INTO products (product_name,department,price, quantity)
+VALUES ("Organic Charcoals", "Coal", 10.9, 150);
+
+INSERT INTO products (product_name,department,price, quantity)
+VALUES ("Two Apples", "Flavors", 120, 60);
+
+INSERT INTO products (product_name,department,price, quantity)
+VALUES ("Mint", "Flavors", 120, 80);
 
