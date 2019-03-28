@@ -1,13 +1,8 @@
 {
   "development": {
     "username": "root",
-<<<<<<< HEAD
     "password": "Tinker1224",
     "database": "hookahZon_db",
-=======
-    "password": "tilapia123",
-    "database": "hookahzon_db",
->>>>>>> master
     "host": "localhost",
     "port": 3306,
     "dialect": "mysql"
