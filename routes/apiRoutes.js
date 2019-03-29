@@ -2,11 +2,11 @@ var db = require("../models");
 
 module.exports = function(app) {
   // Get all examples
-  app.get("/", function(req, res) {
-    db.hookahzon.findAll({}).then(function(result) {
-      res.json(result);
-    });
-  });
+  // app.get("/", function(req, res) {
+  //   db.hookahzon.findAll({}).then(function(result) {
+  //     res.json(result);
+  //   });
+  // });
 
   // Create a new example
   app.post("/api/products", function(req, res) {
